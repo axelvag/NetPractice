@@ -16,11 +16,13 @@ The aim of the project is to configure small-scale networks.
 - Other IP addresses are public (with access to the Internet).
 - In the routing table, default or 0.0.0.0/0 matches everything.
 - The router has a different mask for each subnet.
+
 ## Execrises
+
 <details>
 <summary>Level 1</summary>
 
-![Level_1](https://user-images.githubusercontent.com/90090114/156193807-c3f88ea9-7e08-41da-8888-a00211b47a26.png)
+- [Level_1](https://user-images.githubusercontent.com/90090114/156193807-c3f88ea9-7e08-41da-8888-a00211b47a26.png)
 </details>
 <details>
 <summary>Level 2</summary>

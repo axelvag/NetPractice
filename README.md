@@ -17,7 +17,7 @@ The aim of the project is to configure small-scale networks.
 - In the routing table, default or 0.0.0.0/0 matches everything.
 - The router has a different mask for each subnet.
 
-## Execrises
+## Exercises
 
 <details>
 <summary>Level 1</summary>

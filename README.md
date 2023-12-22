@@ -69,3 +69,15 @@ The aim of the project is to configure small-scale networks.
   
 ![Level_10](https://user-images.githubusercontent.com/90090114/156194130-619db4c1-54c6-44ec-b4cb-8775c45591a6.png)
 </details>
+
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/NetPractice
+
+# Access
+$ cd NetPractice
+
+# Open index.html to doing all exercices one by one
+```
